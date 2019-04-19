@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C7CE13D4-4A6F-4622-8C98-B8EEB10AF061}|">
+  <MonoDevelop.Ide.ItemProperties.CalificacionesAlumnos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalificacionesAlumnos/Index.aspx">
+    <Files>
+      <File FileName="CalificacionesAlumnos/Index.aspx" Line="14" Column="17" />
+      <File FileName="CalificacionesAlumnos/Index2.aspx" Line="118" Column="61" />
+      <File FileName="CalificacionesAlumnos/Index.aspx.cs" Line="22" Column="53" />
+      <File FileName="CalificacionesAlumnos/Index2.aspx.cs" Line="206" Column="1" />
+      <File FileName="CalificacionesAlumnos/Models/Alumno.cs" Line="24" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CalificacionesAlumnos" expanded="True">
+            <Node name="CalificacionesAlumnos" expanded="True">
+              <Node name="Index.aspx" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

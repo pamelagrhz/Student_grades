@@ -1,0 +1,6 @@
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/bin/CalificacionesAlumnos.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/bin/CalificacionesAlumnos.pdb
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/obj/Debug/CalificacionesAlumnos.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/obj/Debug/CalificacionesAlumnos.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/obj/Debug/CalificacionesAlumnos.pdb
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos/obj/Debug/CalificacionesAlumnos.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/CalificacionesAlumnos.Tests.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/CalificacionesAlumnos.Tests.pdb
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/CalificacionesAlumnos.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/nunit.framework.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/CalificacionesAlumnos.pdb
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/bin/Debug/nunit.framework.xml
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/obj/Debug/CalificacionesAlumnos.Tests.csprojAssemblyReference.cache
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/obj/Debug/CalificacionesAlumnos.Tests.csproj.CoreCompileInputs.cache
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/obj/Debug/CalificacionesAlumnos.Tests.csproj.CopyComplete
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/obj/Debug/CalificacionesAlumnos.Tests.dll
+/Users/pamelaruizhernandez/Projects/CalificacionesAlumnos/CalificacionesAlumnos.Tests/obj/Debug/CalificacionesAlumnos.Tests.pdb

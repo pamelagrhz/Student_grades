@@ -1,0 +1,2020 @@
+{
+  "protocol_version" : "0.0.1",
+  "configuration" : {
+    "version" : "5.16.0.221 (2018-06/b63e5378e38 Mon Nov 19 18:08:09 EST 2018)",
+    "tlc" : "normal",
+    "sigsgev" : "altstack",
+    "notifications" : "kqueue",
+    "architecture" : "amd64",
+    "disabled_features" : "none",
+    "smallconfig" : "disabled",
+    "bigarrays" : "disabled",
+    "softdebug" : "enabled",
+    "interpreter" : "enabled",
+    "llvm_support" : "3.6.0svn-mono-release_60/0b3cb8ac12c"
+  },
+  "memory" : {
+    "Resident Size" : "48201728",
+    "Virtual Size" : "4556300288",
+    "minor_gc_time" : "0",
+    "major_gc_time" : "881519",
+    "minor_gc_count" : "0",
+    "major_gc_count" : "1",
+    "major_gc_time_concurrent" : "0"
+  },
+  "threads" : [
+    {
+      "is_managed" : false,
+      "managed_thread_ptr" : "0x0",
+      "thread_info_addr" : "0x0",
+      "thread_name" : "tid_5703",
+      "native_thread_id" : "0x4c9a000",
+      "ctx" : {
+        "IP" : "0x7fff7e94923e",
+        "SP" : "0x700004c92768",
+        "BP" : "0x700004c927a0"
+      },
+      "managed_frames" : [
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x00000",
+          "native_offset" : "0x0",
+          "il_offset" : "0xffffffff"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x00000",
+          "native_offset" : "0x0",
+          "il_offset" : "0xffffffff"
+        },
+        {
+          "native_address" : "unregistered"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+          "token" : "0x00000",
+          "native_offset" : "0x0",
+          "il_offset" : "0xffffffff"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+          "token" : "0x60041ee",
+          "native_offset" : "0x0",
+          "il_offset" : "0x00047"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x6003302",
+          "native_offset" : "0x0",
+          "il_offset" : "0x00025"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x6003296",
+          "native_offset" : "0x0",
+          "il_offset" : "0x00071"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x6003295",
+          "native_offset" : "0x0",
+          "il_offset" : "0x00000"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x6003294",
+          "native_offset" : "0x0",
+          "il_offset" : "0x0002b"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x6003303",
+          "native_offset" : "0x0",
+          "il_offset" : "0x0000f"
+        },
+        {
+          "is_managed" : "true",
+          "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+          "token" : "0x00000",
+          "native_offset" : "0x0",
+          "il_offset" : "0xffffffff"
+        }
+      ],
+    "unmanaged_frames" : [
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "native_address" : "unregistered"
+      }
+    ]
+  },
+  {
+    "is_managed" : false,
+    "managed_thread_ptr" : "0x0",
+    "thread_info_addr" : "0x0",
+    "thread_name" : "tid_ab03",
+    "native_thread_id" : "0x5eb5000",
+    "ctx" : {
+      "IP" : "0x7fff7e9467de",
+      "SP" : "0x700005eae148",
+      "BP" : "0x700005eae1d0"
+    },
+    "managed_frames" : [
+      {
+        "native_address" : "unregistered"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+        "token" : "0x00000",
+        "native_offset" : "0x0",
+        "il_offset" : "0xffffffff"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+        "token" : "0x60041ee",
+        "native_offset" : "0x0",
+        "il_offset" : "0x00047"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x6003302",
+        "native_offset" : "0x0",
+        "il_offset" : "0x00025"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x6003296",
+        "native_offset" : "0x0",
+        "il_offset" : "0x00071"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x6003295",
+        "native_offset" : "0x0",
+        "il_offset" : "0x00000"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x6003294",
+        "native_offset" : "0x0",
+        "il_offset" : "0x0002b"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x6003303",
+        "native_offset" : "0x0",
+        "il_offset" : "0x0000f"
+      },
+      {
+        "is_managed" : "true",
+        "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+        "token" : "0x00000",
+        "native_offset" : "0x0",
+        "il_offset" : "0xffffffff"
+      }
+    ],
+  "unmanaged_frames" : [
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "native_address" : "unregistered"
+    }
+  ]
+},
+{
+  "is_managed" : false,
+  "managed_thread_ptr" : "0x0",
+  "thread_info_addr" : "0x0",
+  "thread_name" : "tid_4403",
+  "native_thread_id" : "0x4a97000",
+  "ctx" : {
+    "IP" : "0x7fff7e9467de",
+    "SP" : "0x700004a90148",
+    "BP" : "0x700004a901d0"
+  },
+  "managed_frames" : [
+    {
+      "native_address" : "unregistered"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+      "token" : "0x00000",
+      "native_offset" : "0x0",
+      "il_offset" : "0xffffffff"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+      "token" : "0x60041ee",
+      "native_offset" : "0x0",
+      "il_offset" : "0x00047"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x6003302",
+      "native_offset" : "0x0",
+      "il_offset" : "0x00025"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x6003296",
+      "native_offset" : "0x0",
+      "il_offset" : "0x00071"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x6003295",
+      "native_offset" : "0x0",
+      "il_offset" : "0x00000"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x6003294",
+      "native_offset" : "0x0",
+      "il_offset" : "0x0002b"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x6003303",
+      "native_offset" : "0x0",
+      "il_offset" : "0x0000f"
+    },
+    {
+      "is_managed" : "true",
+      "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+      "token" : "0x00000",
+      "native_offset" : "0x0",
+      "il_offset" : "0xffffffff"
+    }
+  ],
+"unmanaged_frames" : [
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "native_address" : "unregistered"
+  }
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_8b03",
+"native_thread_id" : "0x5cb2000",
+"ctx" : {
+  "IP" : "0x7fff7e9467de",
+  "SP" : "0x700005cab148",
+  "BP" : "0x700005cab1d0"
+},
+"managed_frames" : [
+  {
+    "native_address" : "unregistered"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+    "token" : "0x00000",
+    "native_offset" : "0x0",
+    "il_offset" : "0xffffffff"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+    "token" : "0x60041ee",
+    "native_offset" : "0x0",
+    "il_offset" : "0x00047"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x6003302",
+    "native_offset" : "0x0",
+    "il_offset" : "0x00025"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x6003296",
+    "native_offset" : "0x0",
+    "il_offset" : "0x00071"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x6003295",
+    "native_offset" : "0x0",
+    "il_offset" : "0x00000"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x6003294",
+    "native_offset" : "0x0",
+    "il_offset" : "0x0002b"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x6003303",
+    "native_offset" : "0x0",
+    "il_offset" : "0x0000f"
+  },
+  {
+    "is_managed" : "true",
+    "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+    "token" : "0x00000",
+    "native_offset" : "0x0",
+    "il_offset" : "0xffffffff"
+  }
+],
+"unmanaged_frames" : [
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+},
+{
+  "native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_8f03",
+"native_thread_id" : "0x5aaf000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700005aa8148",
+"BP" : "0x700005aa81d0"
+},
+"managed_frames" : [
+{
+  "native_address" : "unregistered"
+},
+{
+  "is_managed" : "true",
+  "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+  "token" : "0x00000",
+  "native_offset" : "0x0",
+  "il_offset" : "0xffffffff"
+},
+{
+  "is_managed" : "true",
+  "guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+  "token" : "0x60041ee",
+  "native_offset" : "0x0",
+  "il_offset" : "0x00047"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x6003302",
+  "native_offset" : "0x0",
+  "il_offset" : "0x00025"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x6003296",
+  "native_offset" : "0x0",
+  "il_offset" : "0x00071"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x6003295",
+  "native_offset" : "0x0",
+  "il_offset" : "0x00000"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x6003294",
+  "native_offset" : "0x0",
+  "il_offset" : "0x0002b"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x6003303",
+  "native_offset" : "0x0",
+  "il_offset" : "0x0000f"
+},
+{
+  "is_managed" : "true",
+  "guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+  "token" : "0x00000",
+  "native_offset" : "0x0",
+  "il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_307",
+"native_thread_id" : "0xe3da5c0",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x7ffee3030bd8",
+"BP" : "0x7ffee3030c60"
+},
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_7603",
+"native_thread_id" : "0x56a9000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x7000056a8488",
+"BP" : "0x7000056a8510"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Worker",
+"native_thread_id" : "0x448e000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x70000448d488",
+"BP" : "0x70000448d510"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x60033c6",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Worker",
+"native_thread_id" : "0x428b000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700004289498",
+"BP" : "0x700004289520"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x60033c6",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_9c07",
+"native_thread_id" : "0x54a6000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x70000549f148",
+"BP" : "0x70000549f1d0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_b603",
+"native_thread_id" : "0x66c1000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x7000066c0b88",
+"BP" : "0x7000066c0c10"
+},
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_6a03",
+"native_thread_id" : "0x52a3000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x70000529c148",
+"BP" : "0x70000529c1d0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "Thread Pool Worker",
+"native_thread_id" : "0x3e85000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700003e84608",
+"BP" : "0x700003e84690"
+},
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_a303",
+"native_thread_id" : "0x50a0000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700005099148",
+"BP" : "0x7000050991d0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_14e03",
+"native_thread_id" : "0x62bb000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x7000062b4148",
+"BP" : "0x7000062b41d0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_a603",
+"native_thread_id" : "0x4e9d000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700004e96148",
+"BP" : "0x700004e961d0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "23340A11-BB41-423A-A895-298BF881ED68",
+"token" : "0x60041ee",
+"native_offset" : "0x0",
+"il_offset" : "0x00047"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00025"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003303",
+"native_offset" : "0x0",
+"il_offset" : "0x0000f"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "Timer-Scheduler",
+"native_thread_id" : "0x60b8000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x7000060b7418",
+"BP" : "0x7000060b74a0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003438",
+"native_offset" : "0x0",
+"il_offset" : "0x00044"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003424",
+"native_offset" : "0x0",
+"il_offset" : "0x00014"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003423",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x600341e",
+"native_offset" : "0x0",
+"il_offset" : "0x00019"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003421",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x60034d9",
+"native_offset" : "0x0",
+"il_offset" : "0x00048"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00014"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003304",
+"native_offset" : "0x0",
+"il_offset" : "0x00008"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+},
+{
+"is_managed" : false,
+"managed_thread_ptr" : "0x0",
+"thread_info_addr" : "0x0",
+"thread_name" : "tid_5303",
+"native_thread_id" : "0x3a7f000",
+"ctx" : {
+"IP" : "0x7fff7e9467de",
+"SP" : "0x700003a7e618",
+"BP" : "0x700003a7e6a0"
+},
+"managed_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003328",
+"native_offset" : "0x0",
+"il_offset" : "0x00019"
+},
+{
+"is_managed" : "true",
+"guid" : "BBD0A9D3-A0D3-4909-9BE0-0550C37EBFB4",
+"token" : "0x600001a",
+"native_offset" : "0x0",
+"il_offset" : "0x00048"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003302",
+"native_offset" : "0x0",
+"il_offset" : "0x00014"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003296",
+"native_offset" : "0x0",
+"il_offset" : "0x00071"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003295",
+"native_offset" : "0x0",
+"il_offset" : "0x00000"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003294",
+"native_offset" : "0x0",
+"il_offset" : "0x0002b"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x6003304",
+"native_offset" : "0x0",
+"il_offset" : "0x00008"
+},
+{
+"is_managed" : "true",
+"guid" : "98FAC219-BD4E-4536-93D7-6FDA7BD96AB0",
+"token" : "0x00000",
+"native_offset" : "0x0",
+"il_offset" : "0xffffffff"
+}
+],
+"unmanaged_frames" : [
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+},
+{
+"native_address" : "unregistered"
+}
+]
+}
+]}
